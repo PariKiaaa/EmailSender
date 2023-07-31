@@ -20,5 +20,5 @@ This Python script provides a simple GUI application using tkinter to send email
 This application uses the Gmail SMTP server to send emails. As a result, you need to enable "Allow less secure apps" in your Gmail account settings or use an App Password (if two-factor authentication is enabled) to successfully send emails. Exercise caution and avoid entering your Gmail credentials on untrusted or public systems.
 
 ## Author ##
-ParKiaaa (https://github.com/PariKiaaa)
+[ParKiaaa](https://github.com/PariKiaaa)
 
